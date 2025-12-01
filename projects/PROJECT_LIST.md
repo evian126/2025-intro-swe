@@ -81,6 +81,13 @@ This file lists all team projects for the SWE course. Students add their project
 * **Status:** In Progress
 * **Description:** Connect through music
 
+### Garderoba – Marijan Ević
+*  **Project:** Garderoba
+*  **Folder:** garderoba-mevic/
+*  **Status:** In Progress
+*  **Description:** A web application for managing folkloric costumes, dancers, events, and inventory within a cultural ensemble.
+
+
 ## Instructions for Teams
 
 1. **Create your project folder** with proper naming convention
